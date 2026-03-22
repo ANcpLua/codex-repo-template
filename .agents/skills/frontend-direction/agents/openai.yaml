@@ -1,0 +1,5 @@
+interface:
+  display_name: Frontend Direction
+  description: Forces art direction before frontend code.
+policy:
+  allow_implicit_invocation: true
